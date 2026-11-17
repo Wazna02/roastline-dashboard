@@ -4,7 +4,11 @@ An interactive dashboard that tracks revenue, orders and repeat buying for a fic
 
 **[Live demo](https://Wazna02.github.io/roastline-dashboard/)**
 
-![Dashboard screenshot](screenshot.png)
+# Screenshots
+
+![Dashboard, top: filters, KPIs and trends](screenshot.png)
+
+![Dashboard, bottom: category breakdown and product table](screenshot1.png)
 
 ## What it does
 
